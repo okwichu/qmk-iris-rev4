@@ -1,2 +1,2 @@
 # qmk-iris-rev4
-Stores my QMK config for my keebio Iris
+This repository stores my QMK config for my Keeb.io Iris
